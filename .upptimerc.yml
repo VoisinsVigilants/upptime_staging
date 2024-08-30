@@ -8,7 +8,7 @@ sites:
   - name: Hodatis (Staging)
     url: https://staging.hodatis.com
   - name: Api B2C - Api Voisins Vigilants (Staging)
-    url: https://staging-api-flutter.voisinsvigilants.org
+    url: staging-api-flutter.voisinsvigilants.org
     check: "tcp-ping"
   - name: Data - Voisins Vigilants Data (Staging)
     url: https://staging.voisinsvigilants-data.org/
