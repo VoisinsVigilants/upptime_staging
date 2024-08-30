@@ -41,11 +41,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-b2-c-api-voisins-vigilants-staging",
     "status": "up",
-    "uptime": "12.33%",
-    "uptimeDay": "12.33%",
-    "uptimeWeek": "12.33%",
-    "uptimeMonth": "12.33%",
-    "uptimeYear": "12.33%",
+    "uptime": "39.92%",
+    "uptimeDay": "39.92%",
+    "uptimeWeek": "39.92%",
+    "uptimeMonth": "39.92%",
+    "uptimeYear": "39.92%",
     "time": 132,
     "timeDay": 132,
     "timeWeek": 132,
@@ -61,18 +61,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/staging.voisinsvigilants-data.org.ico",
     "slug": "data-voisins-vigilants-data-staging",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 983,
     "timeDay": 983,
     "timeWeek": 983,
     "timeMonth": 983,
     "timeYear": 983,
     "dailyMinutesDown": {
-      "2024-08-30": 231
+      "2024-08-30": 338
     }
   },
   {
@@ -80,17 +80,19 @@
     "url": "https://staging.territoirevigilant.org",
     "icon": "https://icons.duckduckgo.com/ip3/staging.territoirevigilant.org.ico",
     "slug": "territoire-territoire-vigilant-staging",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 837,
-    "timeDay": 837,
-    "timeWeek": 837,
-    "timeMonth": 837,
-    "timeYear": 837,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 763,
+    "timeDay": 763,
+    "timeWeek": 763,
+    "timeMonth": 763,
+    "timeYear": 763,
+    "dailyMinutesDown": {
+      "2024-08-30": 0
+    }
   }
 ]
