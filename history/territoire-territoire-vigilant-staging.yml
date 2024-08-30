@@ -1,7 +1,7 @@
 url: https://staging.territoirevigilant.org
-status: up
-code: 200
-responseTime: 813
-lastUpdated: 2024-08-30T12:35:27.951Z
+status: down
+code: 503
+responseTime: 319
+lastUpdated: 2024-08-30T14:21:51.060Z
 startTime: 2024-08-30T08:44:19.897Z
 generator: Upptime <https://github.com/upptime/upptime>
