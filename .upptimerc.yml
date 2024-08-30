@@ -19,7 +19,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
-  baseUrl: /voisinsvigilants/upptime_staging
+  baseUrl: upptime_staging
   logoUrl: https://firebasestorage.googleapis.com/v0/b/voisins-vigilants.appspot.com/o/asset%2Flogo_vvs_vertical.svg?alt=media&token=b8b44c73-41e0-4584-bce2-c549b5585bcc
   name: Voisins Vigilants Staging
   introTitle: "**Voisins Vigilants Staging** environnement de Staging"
