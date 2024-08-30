@@ -1,7 +1,7 @@
-url: https://staging-api-flutter.voisinsvigilants.org
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-08-30T08:59:36.680Z
+url: staging-api-flutter.voisinsvigilants.org
+status: up
+code: 200
+responseTime: 2
+lastUpdated: 2024-08-30T12:07:06.403Z
 startTime: 2024-08-30T08:44:14.164Z
 generator: Upptime <https://github.com/upptime/upptime>
