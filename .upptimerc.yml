@@ -4,18 +4,18 @@ repo: upptime_staging # The name of this repository
 
 sites:
   - name: Site Voisins Vigilants et Solidaires (PROD)
-    url: https://app.voisinsvigilants.org
+    url: https://__app.voisinsvigilants.org
   - name: B2B - Voisins Vigilants Connect (Staging)
-    url: https://staging.voisinsvigilants-connect.org
+    url: https://__staging.voisinsvigilants-connect.org
   - name: Hodatis (Staging)
     url: https://staging.hodatis.com
   - name: Api B2C - Api Voisins Vigilants (Staging)
-    url: staging-api-flutter.voisinsvigilants.org
+    url: __staging-api-flutter.voisinsvigilants.org
     check: "tcp-ping"
   - name: Data - Voisins Vigilants Data (Staging)
-    url: https://staging.voisinsvigilants-data.org/
+    url: https://__staging.voisinsvigilants-data.org/
   - name: Territoire - Territoire Vigilant (Staging)
-    url: https://staging.territoirevigilant.org
+    url: https://__staging.territoirevigilant.org
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
