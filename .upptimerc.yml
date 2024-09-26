@@ -8,7 +8,7 @@ sites:
   - name: B2B - Voisins Vigilants Connect (Staging)
     url: https://__staging.voisinsvigilants-connect.org
   - name: Hodatis (Staging)
-    url: https://staging.hodatis.com
+    url: https://__staging.hodatis.com
   - name: Api B2C - Api Voisins Vigilants (Staging)
     url: __staging-api-flutter.voisinsvigilants.org
     check: "tcp-ping"
